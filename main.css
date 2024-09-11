@@ -1,0 +1,49 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+:root{
+    --border-radius: 15px;
+    --box-shadow: 15px 10px ;
+}
+body{
+    background:#141414;
+}
+
+.card{
+    border: 2px solid red;
+    display:grid;
+    background: #1f1f1f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution{
+    margin-top: 31rem;
+}
