@@ -15,6 +15,18 @@ body{
     border: 2px solid red;
     display:grid;
     background: #1f1f1f;
+    margin: 15rem auto;
+    padding-bottom: 1.5rem;
+    width: 50vw;
+}
+.card-btn{
+    display: grid;
+    gap: 0.75rem;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    padding: 0 6rem;
 }
 
 
