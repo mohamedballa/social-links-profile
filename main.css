@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 :root{
-    --border-radius: 15px;
+    --border-radius: 10px;
     --box-shadow: 15px 10px ;
 }
 body{
@@ -18,19 +18,30 @@ body{
     margin: 15rem auto;
     padding-bottom: 1.5rem;
     width: 50vw;
+    border-radius: var(--border-radius);
+
 }
 .card-btn{
     display: grid;
     gap: 0.75rem;
-    justify-content: center;
-    align-items: center;
+    place-content: center;
+    
+    border: 2px solid red;
 }
 .btn {
-    padding: 0 6rem;
+    /* padding: 0 6rem; */
+    padding: 0.75rem 5rem;
+    border-radius: var(--border-radius);
 }
 
-
-
+.header{
+    display: grid;
+    place-content: center;
+}
+img{
+    margin: auto;
+    border-radius: 50rem;
+}
 
 
 
