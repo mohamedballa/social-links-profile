@@ -23,7 +23,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/social-links-profile-KAnghNZviU)
 - Live Site URL: [live site](https://mohamedballa.github.io/social-links-profile/)
 
 ## My process
